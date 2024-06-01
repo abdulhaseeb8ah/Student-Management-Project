@@ -1,0 +1,6 @@
+To run the project follow these steps
+
+php artisan migrate
+php artisan storage:link
+php artisan db:seed (Added five users and sidebar)
+php artisan serve
