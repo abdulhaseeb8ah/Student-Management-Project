@@ -9,25 +9,6 @@ A modern, clean, and practical Student Management System built with PHP & Blade 
 
 A beautifully simple dashboard for managing student records, attendance, courses, and grading — built to be easy to extend and deploy.
 
-Why this README stands out
-- Clear, actionable setup instructions so contributors can get started in minutes.
-- Modern, approachable language and badges to give a professional first impression.
-- Quick commands, environment tips, and contribution guidance to lower onboarding friction.
-
-Tech composition
-- PHP — 51.4%
-- Blade — 33.2%
-- JavaScript — 10.2%
-- CSS — 5.2%
-
-Demo
-- Add a demo URL here (GitHub Pages / Heroku / Demo server) to showcase the app live.
-
-Screenshots
-- Add screenshots to /assets or link externally. Example:
-  - docs/screenshots/dashboard.png
-  - docs/screenshots/student-profile.png
-
 Features
 - Student CRUD: Create, read, update, delete student records.
 - Course management and assignment.
@@ -132,8 +113,7 @@ License
 
 Contact
 - Maintainer: abdulhaseeb8ah
-- Email: add-your-email@example.com
-- Twitter / LinkedIn: add links if desired
+- Email: workinfo.haseeb@gmail.com
 
 Thank you for building something that helps educators and students—clean UIs and concise workflows make a real difference. If you'd like, I can:
 - Push this README into the repository,
